@@ -36,32 +36,30 @@
         <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
     </h3>
     <div style="display: flex;">
-        <left style="flex: 2;">
+        <left style="flex-grow: 1;">
             <h1 style="padding: 15px;" align="right">What I Am</h1>
-            <ul style="direction: rtl; text-align: right;">
+            <ul>
                 <li>A senior back-end engineer</li>
                 <li>An amateur front-end engineer</li>
             </ul>
         </left>
-        <right style="flex: 1;" align="right">
-            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpbWZ4eDd1dGhzZ2toeXo3NnhpMzUyODI1ZW0xa3JsM2ttcTF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xwbscqzx7SkvN6/giphy.gif"/>
+        <right style="flex-grow: 0;">
+            <img
+                src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpbWZ4eDd1dGhzZ2toeXo3NnhpMzUyODI1ZW0xa3JsM2ttcTF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xwbscqzx7SkvN6/giphy.gif"
+            />
         </right>
     </div>
-    <div style="display: flex;">
-        <left style="flex: 1;">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"/>
-        </left>
-        <right style="flex: 2;">
-            <h1 style="padding: 15px; align="left">What I Do</h1>
-            <ul>
-                <li>Write TypeScript code</li>
-                <li>Write Java code - occassionally</li>
-                <li>Create distributed systems</li>
-                <li>Design serverless architectures</li>
-                <li>Develop RESTful APIs</li>
-            </ul>
-        </right>
-    </div>
+    <h1 style="padding: 15px; align="left">What I Do</h1>
+    <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
+    />
+    <ul>
+        <li>💻 Write TypeScript code</li>
+        <li>💻 Write Java code - occassionally</li>
+        <li>Create distributed systems</li>
+        <li>Design serverless architectures</li>
+        <li>Develop RESTful APIs</li>
+    </ul>
     <h1>Stats</h1>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=kaonashi-noface&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
