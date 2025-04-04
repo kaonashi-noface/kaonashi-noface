@@ -1,13 +1,3 @@
-<style>
-@font-face {
-  font-family: 'MesloLGMDZFont';
-  src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/L/Regular/MesloLGLNerdFontMono-Regular.ttf') format('truetype');
-}
-body {
-  font-family: 'MesloLGMDZFont', monospace;
-}
-</style>
-
 <main>
     <h3 align="center">Senior Back-End Engineer</h3>
     <h3 align="center">
@@ -67,11 +57,6 @@ body {
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=kaonashi-noface&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
         <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kaonashi-noface&layout=compact&border_color=599200&hide_border=true&theme=dracula&langs_count=6">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-        </picture>
     </div>
     <hr/>
     <div>
