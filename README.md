@@ -35,9 +35,9 @@
     <h3 align="center">
         <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
     </h3>
-    <div style="display: flex;">
+    <div style="display: flex; justify-content: flex-end">
         <left style="flex-grow: 1;">
-            <h1 style="padding: 15px;" align="right">What I Am</h1>
+            <h1 style="padding: 15px;">What I Am</h1>
             <ul>
                 <li>A senior back-end engineer</li>
                 <li>An amateur front-end engineer</li>
