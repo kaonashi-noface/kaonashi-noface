@@ -36,7 +36,7 @@
         <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
     </h3>
     <div style="display: flex;">
-        <left style="flex: 4;">
+        <left style="flex: 2;">
             <h1 style="padding: 15px;" align="right">What I Am</h1>
             <ul style="direction: rtl; text-align: right;">
                 <li>A senior back-end engineer</li>
@@ -51,7 +51,7 @@
         <left style="flex: 1;">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"/>
         </left>
-        <right style="flex: 4;">
+        <right style="flex: 2;">
             <h1 style="padding: 15px; align="left">What I Do</h1>
             <ul>
                 <li>Write TypeScript code</li>
