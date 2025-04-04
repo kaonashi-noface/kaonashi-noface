@@ -1,4 +1,14 @@
-<main style="font-family: 'Meslo LG M DZ', monospace;">
+<style>
+@font-face {
+  font-family: 'MesloLGMDZFont';
+  src: url('https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/L/Regular/MesloLGLNerdFontMono-Regular.ttf') format('truetype');
+}
+body {
+  font-family: 'MesloLGMDZFont', monospace;
+}
+</style>
+
+<main>
     <h3 align="center">Senior Back-End Engineer</h3>
     <h3 align="center">
         ⟹
