@@ -35,20 +35,23 @@
     <h3 align="center">
         <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
     </h3>
-    <div style="display: flex; justify-content: flex-end">
-        <left style="flex-grow: 1;">
-            <h1 style="padding: 15px;">What I Am</h1>
-            <ul>
-                <li>A senior back-end engineer</li>
-                <li>An amateur front-end engineer</li>
-            </ul>
-        </left>
-        <right style="flex-grow: 0;">
-            <img
-                src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpbWZ4eDd1dGhzZ2toeXo3NnhpMzUyODI1ZW0xa3JsM2ttcTF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xwbscqzx7SkvN6/giphy.gif"
-            />
-        </right>
-    </div>
+    <hr />
+    <table style="margin-left: auto; margin-right: 0;">
+        <tr>
+            <td style="width: 60%;">
+                <h1>What I Am</h1>
+                <ul>
+                    <li>A senior back-end engineer</li>
+                    <li>An amateur front-end engineer</li>
+                </ul>
+            </td>
+            <td style="width: 40%">
+                <img
+                    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBpbWZ4eDd1dGhzZ2toeXo3NnhpMzUyODI1ZW0xa3JsM2ttcTF4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xwbscqzx7SkvN6/giphy.gif"
+                />
+            </td>
+        </tr>
+    </table>
     <h1 style="padding: 15px; align="left">What I Do</h1>
     <img
         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
