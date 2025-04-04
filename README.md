@@ -18,6 +18,15 @@
         <a href="https://github.com/carbon-language/carbon-lang/">
             <img src="https://img.shields.io/badge/C%20Carbon-000000?style=for-the-badge&color=black&logoColor=white" alt="Carbon Lang" />
         </a>
+        ❤❤❤
+        <br />
+        ❤❤❤
+        <a href="https://react.dev/">
+            <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+        </a>
+        ❤❤❤
+        <br />
+        ❤❤❤
         <a href="https://code.visualstudio.com/">
             <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" alt="VS Code" />
         </a>
