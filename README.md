@@ -59,9 +59,7 @@
         <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kaonashi-noface&layout=compact&border_color=599200&hide_border=true&theme=dracula&langs_count=6">
     </div>
     <hr/>
-    <div>
-        <center>
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAydmp3MmRiZThoZW8waXYwdXR4aHFhdzUzMGpldWdycWQzajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEdgB3euossMg/giphy.gif" />
-        </center>
+    <div align="center">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAydmp3MmRiZThoZW8waXYwdXR4aHFhdzUzMGpldWdycWQzajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEdgB3euossMg/giphy.gif" />
     </div>
 </main>
