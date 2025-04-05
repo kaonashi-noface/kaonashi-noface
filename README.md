@@ -1,6 +1,6 @@
 <body>
-    <h3 align="center">Senior Back-End Engineer</h3>
-    <h3 align="center">
+    <h2 align="center">Senior Back-End Engineer</h2>
+    <div align="center">
         ⟹
         <a href="https://www.typescriptlang.org/">
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -12,8 +12,8 @@
             <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
         </a>
         ⟸
-    </h3>
-    <h3 align="center">
+    </div>
+    <div align="center">
         ❤❤❤
         <a href="https://deno.com/">
             <img src="https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white" alt="Deno Lang" />
@@ -49,46 +49,38 @@
             <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
         </a>
         ❤❤❤
-    </h3>
-    <h3 align="center">
+    </div>
+    <div align="center">
+        <img
+            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
+            width="150em"
+            height="auto"
+        />
+    </div>
+    <div align="center">
         <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
-    </h3>
+    </div>
     <hr />
-    <main>
-        <div style=" margin: 0 auto; width: 80%;">
-            <div style="float: left; margin: 0; width: 50%;">
-                <h1 align="center">What I Am</h1>
-                <!-- What I Am: -->
-                <ul>
-                    <li>👴 A senior back-end engineer</li>
-                    <li>👶 An amateur front-end engineer</li>
-                   <br /> <li>🤪 A goofy person</li>
-                    <li>🕵️ A curious person</li>
-                    <li>🧑‍🎓 A constant learner</li>
-                    <li>🧑‍🏫 A teacher & mentor</li>
-                    <li>
-                        <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="15em" align="center"/> An Arch user (I use Arch btw.)
-                    </li>
-                </ul>
-            </div>
-            <div style="float: left; margin: 0; width: 50%;">
-                <h1 align="center">What I Do</h1>
-                <!-- What I Do: -->
-                <ul>
-                    <li>💻 Write TypeScript code</li>
-                    <li>💻 Write Java code - occassionally</li>
-                    <li>🌱 Create distributed systems</li>
-                    <li>🚀 Design serverless architectures</li>
-                    <li>🤖 Develop RESTful APIs</li>
-                </ul>
-            </div>
+    <main align="center">
+        <h2 align="center">About</h2>
+        <h3>What I Am:</h3>
+        <div>➤ 👴 A senior back-end engineer</div>
+        <div>➤ 👶 An amateur front-end engineer </div>
+        <div>➤ 🤪 A goofy person</div>
+        <div>➤ 🕵️ A curious person</div>
+        <div>➤ 🧑‍🎓 A constant learner</div>
+        <div>➤ 🧑‍🏫 A teacher & mentor</div>
+        <div>
+            ➤ <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="15em" align="center"/> An Arch user (I use Arch btw.)
         </div>
-        <div style="clear: both;" align="center">
-            <img
-                src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
-            />
-        </div>
-        <h1 style="clear: both;">Stats</h1>
+        <h3>What I Do:</h3>
+        <div>➤ 💻 Write TypeScript code</div>
+        <div>➤ 💻 Write Java code - occassionally</div>
+        <div>➤ 🌱 Create distributed systems</div>
+        <div>➤ 🚀 Design serverless architectures</div>
+        <div>➤ 🤖 Develop RESTful APIs</div>
+        <hr />
+        <h2>Stats</h2>
         <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=kaonashi-noface&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
             <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kaonashi-noface&layout=compact&border_color=599200&hide_border=true&theme=dracula&langs_count=6">
