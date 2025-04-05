@@ -61,26 +61,28 @@
         <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
     </div>
     <hr />
-    <main align="center">
+    <main>
         <h2 align="center">About</h2>
-        <h3>What I Am:</h3>
-        <div>➤ 👴 A senior back-end engineer</div>
-        <div>➤ 👶 An amateur front-end engineer </div>
-        <div>➤ 🤪 A goofy person</div>
-        <div>➤ 🕵️ A curious person</div>
-        <div>➤ 🧑‍🎓 A constant learner</div>
-        <div>➤ 🧑‍🏫 A teacher & mentor</div>
-        <div>
+        <h3 align="center">What I Am:</h3>
+        <div align="center">
+            ➤ 👴 A senior back-end engineer<br />
+            ➤ 👶 An amateur front-end engineer<br />
+            ➤ 🤪 A goofy person<br />
+            ➤ 🕵️ A curious person<br />
+            ➤ 🧑‍🎓 A constant learner<br />
+            ➤ 🧑‍🏫 A teacher & mentor<br />
             ➤ <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="15em" align="center"/> An Arch user (I use Arch btw.)
         </div>
-        <h3>What I Do:</h3>
-        <div>➤ 💻 Write TypeScript code</div>
-        <div>➤ 💻 Write Java code - occassionally</div>
-        <div>➤ 🌱 Create distributed systems</div>
-        <div>➤ 🚀 Design serverless architectures</div>
-        <div>➤ 🤖 Develop RESTful APIs</div>
+        <h3 align="center">What I Do:</h3>
+        <div align="center">
+            ➤ 💻 Write TypeScript code<br />
+            ➤ 💻 Write Java code - occassionally<br />
+            ➤ 🌱 Create distributed systems<br />
+            ➤ 🚀 Design serverless architectures<br />
+            ➤ 🤖 Develop RESTful APIs<br />
+        </div>
         <hr />
-        <h2>Stats</h2>
+        <h2 align="center">Stats</h2>
         <div align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=kaonashi-noface&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
             <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kaonashi-noface&layout=compact&border_color=599200&hide_border=true&theme=dracula&langs_count=6">
