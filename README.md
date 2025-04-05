@@ -51,14 +51,14 @@
         ❤❤❤
     </div>
     <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
+    </div>
+    <div align="center">
         <img
             src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
             width="150em"
             height="auto"
         />
-    </div>
-    <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
     </div>
     <hr />
     <main>
