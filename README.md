@@ -1,4 +1,4 @@
-<main>
+<body>
     <h3 align="center">Senior Back-End Engineer</h3>
     <h3 align="center">
         ⟹
@@ -54,38 +54,48 @@
         <img src="https://komarev.com/ghpvc/?username=kaonashi-noface&style=for-the-badge&color=000000" alt="Profile View Count" />
     </h3>
     <hr />
-    <h1 align="center">About Me<h1>
-    <img
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
-        align="right"
-    />
-    <h2 align="center">What I Am</h1>
-    <ul>
-        <li>👴 A senior back-end engineer</li>
-        <li>👶 An amateur front-end engineer</li>
-        <li>🤪 A goofy person</li>
-        <li>🕵️ A curious person</li>
-        <li>🧑‍🎓 A constant learner</li>
-        <li>🧑‍🏫 A teacher & mentor</li>
-        <li>
-            <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="15em" align="center"/> An Arch user (I use Arch btw.)
-        </li>
-    </ul>
-    <h2 align="center">What I Do</h1>
-    <ul>
-        <li>💻 Write TypeScript code</li>
-        <li>💻 Write Java code - occassionally</li>
-        <li>🌱 Create distributed systems</li>
-        <li>🚀 Design serverless architectures</li>
-        <li>🤖 Develop RESTful APIs</li>
-    </ul>
-    <h1>Stats</h1>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaonashi-noface&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
-        <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kaonashi-noface&layout=compact&border_color=599200&hide_border=true&theme=dracula&langs_count=6">
-    </div>
-    <hr/>
-    <div align="center">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAydmp3MmRiZThoZW8waXYwdXR4aHFhdzUzMGpldWdycWQzajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEdgB3euossMg/giphy.gif" />
-    </div>
-</main>
+    <main>
+        <div style=" margin: 0 auto; width: 80%;">
+            <div style="float: left; margin: 0; width: 50%;">
+                <h1 align="center">What I Am</h1>
+                <!-- What I Am: -->
+                <ul>
+                    <li>👴 A senior back-end engineer</li>
+                    <li>👶 An amateur front-end engineer</li>
+                   <br /> <li>🤪 A goofy person</li>
+                    <li>🕵️ A curious person</li>
+                    <li>🧑‍🎓 A constant learner</li>
+                    <li>🧑‍🏫 A teacher & mentor</li>
+                    <li>
+                        <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="15em" align="center"/> An Arch user (I use Arch btw.)
+                    </li>
+                </ul>
+            </div>
+            <div style="float: left; margin: 0; width: 50%;">
+                <h1 align="center">What I Do</h1>
+                <!-- What I Do: -->
+                <ul>
+                    <li>💻 Write TypeScript code</li>
+                    <li>💻 Write Java code - occassionally</li>
+                    <li>🌱 Create distributed systems</li>
+                    <li>🚀 Design serverless architectures</li>
+                    <li>🤖 Develop RESTful APIs</li>
+                </ul>
+            </div>
+        </div>
+        <div style="clear: both;" align="center">
+            <img
+                src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
+            />
+        </div>
+        <h1 style="clear: both;">Stats</h1>
+        <div align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=kaonashi-noface&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
+            <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kaonashi-noface&layout=compact&border_color=599200&hide_border=true&theme=dracula&langs_count=6">
+        </div>
+        <hr/>
+        <div align="center">
+            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAydmp3MmRiZThoZW8waXYwdXR4aHFhdzUzMGpldWdycWQzajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEdgB3euossMg/giphy.gif" />
+        </div>
+    </main>
+</body>
