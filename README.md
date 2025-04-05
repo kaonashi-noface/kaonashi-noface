@@ -56,7 +56,7 @@
     <div align="center">
         <img
             src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjEzYWtveWRxM3BhbnJlbnc2aDl1cm1yZHJlYzlxYWwybDR2dWp0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.gif"
-            width="150em"
+            width="100em"
             height="auto"
         />
     </div>
