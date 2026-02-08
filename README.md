@@ -65,7 +65,7 @@
         <h2 align="center">About</h2>
         <h3 align="center">What I Am:</h3>
         <div align="center">
-            ➤ 👴 A senior back-end engineer<br />
+            ➤ 🧑‍🚀 A technical lead back-end engineer<br />
             ➤ 👶 An amateur front-end engineer<br />
             ➤ 🤪 A goofy person<br />
             ➤ 🕵️ A curious person<br />
@@ -84,12 +84,11 @@
         <hr />
         <h2 align="center">Stats</h2>
         <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=kaonashi-noface&show_icons=true&hide_title=true&hide_border=true&theme=dracula" />
             <img src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=kaonashi-noface&layout=compact&border_color=599200&hide_border=true&theme=dracula&langs_count=6">
         </div>
         <hr/>
         <div align="center">
-            <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAydmp3MmRiZThoZW8waXYwdXR4aHFhdzUzMGpldWdycWQzajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dEdgB3euossMg/giphy.gif" />
+            <img src="https://storage.ko-fi.com/cdn/useruploads/display/830bc454-17f0-47fa-84e2-7b25db7c2d8d_reboottheworld.png" />
         </div>
     </main>
 </body>
